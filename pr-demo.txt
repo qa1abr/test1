@@ -1,1 +1,2 @@
 First line from day 1
+Second line from day 2
